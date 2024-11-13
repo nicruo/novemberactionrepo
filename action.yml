@@ -1,0 +1,8 @@
+name: My November Action
+description: Hello World Action
+
+runs:
+  using: "composite"
+  steps:
+    - run: echo hello world
+      shell: bash
