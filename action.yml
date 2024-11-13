@@ -6,3 +6,9 @@ runs:
   steps:
     - run: echo hello world
       shell: bash
+    - run: echo hello world
+      shell: bash
+    - run: echo hello world
+      shell: bash
+    - run: echo hello world
+      shell: bash
